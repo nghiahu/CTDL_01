@@ -1,1 +1,139 @@
-<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/></root></mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.1">
+  <diagram name="Trang-1" id="XoV9I0Nv20towqfrA1St">
+    <mxGraphModel dx="1006" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="10" y="170" width="830" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-1">
+          <mxGeometry width="830" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Loại cấu trúc dữ liệu&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-2">
+          <mxGeometry width="277" height="56" as="geometry">
+            <mxRectangle width="277" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Đặc điểm chính&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-2">
+          <mxGeometry x="277" width="276" height="56" as="geometry">
+            <mxRectangle width="276" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Ứng dụng phổ biến&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-2">
+          <mxGeometry x="553" width="277" height="56" as="geometry">
+            <mxRectangle width="277" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-1">
+          <mxGeometry y="56" width="830" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-7" value="&lt;span style=&quot;font-family: &amp;quot;Roboto Mono&amp;quot;, monospace; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Mảng (Array)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-6">
+          <mxGeometry width="277" height="55" as="geometry">
+            <mxRectangle width="277" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;-Bộ nhớ liên tiếp.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;-Truy cập nhanh qua chỉ số 0 ,1&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-6">
+          <mxGeometry x="277" width="276" height="55" as="geometry">
+            <mxRectangle width="276" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Quản lý dữ liệu tĩnh&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Cài đặt bảng tra cứu, ma trận&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-6">
+          <mxGeometry x="553" width="277" height="55" as="geometry">
+            <mxRectangle width="277" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-1">
+          <mxGeometry y="111" width="830" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Danh sách liên kết (LinkedList)&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-10">
+          <mxGeometry width="277" height="56" as="geometry">
+            <mxRectangle width="277" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;-Các phàn tử được liên kết bằng con trỏ.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Chèn/xóa hiệu quả (O(1)) so với mảng.&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-10">
+          <mxGeometry x="277" width="276" height="56" as="geometry">
+            <mxRectangle width="276" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Hàng đợi, Ngăn xếp&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-10">
+          <mxGeometry x="553" width="277" height="56" as="geometry">
+            <mxRectangle width="277" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-1">
+          <mxGeometry y="167" width="830" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-15" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Roboto Mono&amp;quot;, monospace; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Ngăn xếp (Stack)&lt;/span&gt;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-14">
+          <mxGeometry width="277" height="56" as="geometry">
+            <mxRectangle width="277" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-16" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- LIFO (Last In, First Out).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Chỉ thao tác ở đỉnh (push, pop).&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-14">
+          <mxGeometry x="277" width="276" height="56" as="geometry">
+            <mxRectangle width="276" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;-Kiểm tra biểu thức, hoàn thành thao tác&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-14">
+          <mxGeometry x="553" width="277" height="56" as="geometry">
+            <mxRectangle width="277" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-1">
+          <mxGeometry y="223" width="830" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-19" value="&lt;span style=&quot;font-family: &amp;quot;Roboto Mono&amp;quot;, monospace; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Hàng đợi (Queue)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-18">
+          <mxGeometry width="277" height="56" as="geometry">
+            <mxRectangle width="277" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- FIFO (First In, First Out).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Chèn (enqueue) từ cuối, xóa (dequeue) từ đầu.&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-18">
+          <mxGeometry x="277" width="276" height="56" as="geometry">
+            <mxRectangle width="276" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Quản lý luồng công việc, hàng chờ in ấn.&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-18">
+          <mxGeometry x="553" width="277" height="56" as="geometry">
+            <mxRectangle width="277" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-1">
+          <mxGeometry y="279" width="830" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-23" value="&lt;span style=&quot;font-family: &amp;quot;Roboto Mono&amp;quot;, monospace; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Cây (Tree)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-22">
+          <mxGeometry width="277" height="55" as="geometry">
+            <mxRectangle width="277" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-24" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Cấu trúc phân cấp với nút gốc và các nút con.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Duyệt theo chiều sâu/rộng.&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-22">
+          <mxGeometry x="277" width="276" height="55" as="geometry">
+            <mxRectangle width="276" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;-Tìm kiếm nhị phân(BST), hệ thống, file, phân tích cú pháp&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-22">
+          <mxGeometry x="553" width="277" height="55" as="geometry">
+            <mxRectangle width="277" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-1">
+          <mxGeometry y="334" width="830" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-27" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Roboto Mono&amp;quot;, monospace; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Đồ thị (Graph)&lt;/span&gt;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-26">
+          <mxGeometry width="277" height="56" as="geometry">
+            <mxRectangle width="277" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Tập hợp đỉnh và cạnh (có hướng/không hướng, có trọng số/không trọng số).&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-26">
+          <mxGeometry x="277" width="276" height="56" as="geometry">
+            <mxRectangle width="276" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WYyl16mzlQWzFQ2Bzeol-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Tìm đường(GPS), mạng xã hội, bài toán tô màu đồ thị&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WYyl16mzlQWzFQ2Bzeol-26">
+          <mxGeometry x="553" width="277" height="56" as="geometry">
+            <mxRectangle width="277" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
